@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
-	printf("Hello World!\n");
+	printf("Hello S3bas!\n");
 
 	return (0);
 }
