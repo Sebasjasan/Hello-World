@@ -2,7 +2,7 @@
 
 void main()
 {
-	printf("Hello S3bas!\n");
+	printf("Hello Sebas!\n");
 
 	return (0);
 }
